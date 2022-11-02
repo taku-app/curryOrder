@@ -1,0 +1,20 @@
+{
+  "name": "curryorder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.26.0",
+    "jest": "^29.2.2",
+    "prettier": "^2.7.1"
+  },
+  "dependencies": {
+    "mongodb": "^4.11.0",
+    "mysql": "^2.18.1"
+  }
+}
